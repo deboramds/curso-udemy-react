@@ -1,2 +1,2 @@
-var idade = prompt('digite sua idade');
+// var idade = prompt('digite sua idade');
 
